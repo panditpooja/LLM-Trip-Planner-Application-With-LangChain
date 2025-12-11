@@ -1,0 +1,23 @@
+# Core LangChain dependencies
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Optional: For structured output parsing
+# pydantic>=2.0.0
+
+# Optional: For web application
+# streamlit>=1.28.0
+# gradio>=4.0.0
+
+# Optional: For Jupyter widgets
+# ipywidgets>=8.0.0
+
+# Optional: For testing
+# pytest>=7.4.0
+
+# Optional: For data export
+# pandas>=2.0.0
+
