@@ -22,16 +22,22 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
 # Virtual environments
 venv/
 env/
 ENV/
 .venv
+env.bak/
+venv.bak/
 
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb_checkpoints/
+
+# Jupyter Notebook outputs (optional - uncomment if you want to ignore outputs)
+# *.ipynb
 
 # IDE
 .vscode/
@@ -39,15 +45,39 @@ ENV/
 *.swp
 *.swo
 *~
+.project
+.classpath
+.settings/
 
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+Desktop.ini
 
 # Logs
 *.log
+logs/
 
 # Temporary files
 *.tmp
 *.temp
+*.bak
+*.cache
 
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Distribution / packaging
+.Python
+*.egg-info/
+dist/
+build/
