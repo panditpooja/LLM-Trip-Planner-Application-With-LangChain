@@ -108,4 +108,13 @@ Feel free to fork this project and submit pull requests for any improvements!
 - [OpenRouter Documentation](https://openrouter.ai/docs)
 - [LangChain Expression Language (LCEL)](https://python.langchain.com/docs/expression_language/)
 
+## ✍️ Author
+
+**Pooja Pandit**  
+Master's Student in Information Science (Machine Learning)  
+The University of Arizona
+
+[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-blue?logo=linkedin)](https://www.linkedin.com/in/pooja-pandit-177978135/)
+
 
